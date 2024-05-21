@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ASCII
+comment0.text=\r\nASCII\ esta\ clase\ es\ para\ que\ cualquier\ letras/simbolo/caracter\ que\ hayamos\ ingresado\r\ndevuelva\ el\ valor\ numerico\ para\ poder\ usarlo\ dentro\ de\ un\ cifrado\r\nlo\ que\ nos\ ayudara\ a\ cambiarlo\ \r\n\r\n\r\n\r\n\r\n
+comment1.params=valor
+comment1.target=ASCII(char)
+comment2.params=
+comment2.target=char\ getChar()
+comment3.params=
+comment3.target=int\ getCharNum()
+comment4.params=num
+comment4.target=void\ sumar(int)
+numComments=5
